@@ -1,0 +1,17 @@
+{
+  "id": "com.acode.plugin.key.dis.repechul",
+  "name": "Keyboard Disabler",
+  "main": "main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": [],
+  "minVersionCode": 290,
+  "price": 0,
+  "license": "MIT",
+  "keywords": ["keyboard", "productivity", "editor", "toggle"],
+  "author": {
+    "name": "Repechul",
+    "github": "repechul"
+  }
+}
